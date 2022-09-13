@@ -9,8 +9,8 @@ simple CRUD operation using Angular and C# API
    &nbsp;&nbsp;- in API project go to `MyMusicDatabase` ->compareSchema-> and run it into your local DB <br />
    
  if user data not presents please insert below credentials to login to application <br />
-   username/email : *akhilahegde@gmail.com* pwd : *R3gularP@ss* <br />
-   username/email : *ahegde@gmail.com* pwd : *R3gularPa55* <br />
+   username/email : *admin@gmail.com* pwd : *R3gularP@ss* <br />
+   username/email : *hegde@gmail.com* pwd : *R3gularPa55* <br />
    
    <br /><br />
    - Run the API
