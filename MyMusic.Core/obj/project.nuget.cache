@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BAjPSXk7L/yfG5CedtnJjGsVN9B8jVuzpqoW8RhwHPmPakq9aG1UUUFXz/CWKzRKU/JwrzMM0Jrhe3KfjhIhA==",
+  "success": true,
+  "projectFilePath": "C:\\Drive D\\POCs\\Angular-Music-App\\MusicApp\\MyMusic.Core\\MyMusic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ardn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ardn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
